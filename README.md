@@ -63,6 +63,30 @@ WAVEFORM:
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9cbe43d3-c758-4d09-a5d1-ec320ca9587a" />
 
+<img width="905" height="512" alt="Screenshot 2026-03-19 203547" src="https://github.com/user-attachments/assets/24ca1681-0d05-42ed-b05f-21cf4e8720f9" />
+
+<img width="959" height="610" alt="Screenshot 2026-03-19 203630" src="https://github.com/user-attachments/assets/f8557837-f979-4be5-a279-d00a6fa1e878" />
+
+<img width="898" height="578" alt="Screenshot 2026-03-19 203715" src="https://github.com/user-attachments/assets/07bf81a3-b5f3-4614-92f0-3c1aa1dc3c97" />
+
+<img width="865" height="549" alt="Screenshot 2026-03-19 203747" src="https://github.com/user-attachments/assets/043f33aa-ade6-4053-955e-b9de867f1457" />
+
+<img width="828" height="550" alt="Screenshot 2026-03-19 203817" src="https://github.com/user-attachments/assets/4e76bbbe-baa7-4885-b02b-5499eb535002" />
+
+<img width="867" height="553" alt="Screenshot 2026-03-19 203857" src="https://github.com/user-attachments/assets/efa16dcf-d790-4459-bc24-cf13f9865fc9" />
+
+<img width="845" height="634" alt="Screenshot 2026-03-19 203918" src="https://github.com/user-attachments/assets/1b233e1a-4450-4001-a6ae-621f5703a9dc" />
+
+<img width="867" height="550" alt="Screenshot 2026-03-19 204003" src="https://github.com/user-attachments/assets/c5cd1eac-a613-4776-83e2-0e274a4ff10d" />
+
+
+
+
+
+
+
+
+
 
 
 
